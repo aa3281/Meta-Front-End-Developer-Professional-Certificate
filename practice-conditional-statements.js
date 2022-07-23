@@ -47,7 +47,6 @@ function DaysoftheWeek() {
 			break;
 		default:
 			console.log("There is no such day.");
-			break;
 	};
 };
 
