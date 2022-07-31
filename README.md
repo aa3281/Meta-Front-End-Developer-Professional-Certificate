@@ -1,7 +1,7 @@
 # Meta Front-End Developer Professional Certificate #
 Build a dynamic and responsive website with this 9-course program, designed by the software engineering experts at Meta
 
-In this program, you’ll learn:
+**In this program, you’ll learn:**
 
 - How to code and build interactive web pages using HTML5, CSS and JavaScript.
 - In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.
