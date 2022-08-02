@@ -1,8 +1,7 @@
-# Meta Front-End Developer Professional Certificate #
-Build a dynamic and responsive website with this 9-course program, designed by the software engineering experts at Meta
+# About the Meta Front-End Developer Professional Certificate #
+> Follow me as I learn to build a dynamic and responsive website with this 9-course program, designed by the software engineering experts at Meta
 
 **In this program, you’ll learn:**
-
 - How to code and build interactive web pages using HTML5, CSS and JavaScript.
 - In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.
 - GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.
@@ -10,7 +9,7 @@ Build a dynamic and responsive website with this 9-course program, designed by t
 
 By the end, you’ll put your new skills to work by completing a real-world portfolio project where you’ll create your own front-end web application. You’ll build a dynamic website and create a responsive website that you can showcase during a job interview. Plus, you’ll get tips for a successful coding interview and get support in your job search.
 
-## Skills ##
+## Skills/Built With ##
 - UI/UX Design
 - React
 - JavaScript
@@ -22,6 +21,17 @@ By the end, you’ll put your new skills to work by completing a real-world port
 - CMS
 
 ## Courses in this Professional Certificate ##
+
+**To-Do**
+- [x] Course 1: Introduction to Front-End Development
+- [x] Course 2: Programming with JavaScript
+- [x] Course 3: Version Control
+- [ ] Course 4: HTML and CSS in depth
+- [ ] Course 5: React Basics
+- [ ] Course 6: Advanced React
+- [ ] Course 7: Principles of UI/UX Design
+- [ ] Course 8: Front-End Developer Capstone 
+- [ ] Course 9: Coding Interview Preparation
 
 ### Course 1 - Introduction to Front-End Development ###
 You’ll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.
@@ -35,6 +45,16 @@ You’ll be introduced to the core web development technologies like HTML and CS
 - Describe the applications and characteristics of the most popular UI frameworks
 
 For the final project in this course, you will create and edit a webpage using HTML and the Bootstrap CSS framework. Using a responsive layout grid, you will construct a responsive webpage containing text and images that looks great on any size screen.
+
+#### Demo and Screenshot
+![](header.png)
+
+Here is a working live demo : https://example.com
+
+#### Key Features
+- Feature 1
+- Feature 2
+- Feature 3
 
 ### Course 2 - Programming with Javascript ###
 JavaScript is the programming language that powers the modern web. In this course, you will learn the basic concepts of web development with JavaScript. You will work with functions, objects, arrays, variables, data types, the HTML DOM, and much more. You will learn how to use JavaScript and discover interactive possibilities with modern JavaScript technologies. Finally, you will learn about the practice of testing code and how to write a unit test using Jest.
@@ -77,3 +97,34 @@ On completion of the Capstone project, you’ll have a job-ready portfolio that 
 The final course in this program will help prepare you for the unique aspects of a coding job interview, with approaches to problem solving, computer science foundations and soft skills needed to land the job.
 
 You’ll gain strategic insights and tips for successful interviewing. And, you’ll have the opportunity to openly discuss the emotional components of the interview process with other learners taking this course.
+
+## Development
+Easily set up a local development environment!
+
+1. Clone the repo
+    ```git clone https://github.com/your_username_/Project-Name.git```
+2. Install the NPM packages 
+    ```npm start```
+
+## Feedback and Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. All contributions are welcome!
+
+If you have a suggestion that would make my homework better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/amazingFeature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazingFeature`)
+5. Create a new Pull Request
+
+## Acknowledgements
+- [Meta Staff](https://www.coursera.org/instructor/~30575670)
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
+
