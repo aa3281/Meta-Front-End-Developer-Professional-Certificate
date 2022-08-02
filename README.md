@@ -102,16 +102,16 @@ Youâ€™ll gain strategic insights and tips for successful interviewing. And, youâ
 Easily set up a local development environment!
 
 1. Clone the repo
-    ```git clone https://github.com/your_username_/Project-Name.git```
+    ```git clone https://github.com/aa3281/Meta-Front-End-Developer-Professional-Certificate.git```
 2. Install the NPM packages 
-    ```npm start```
+    ```npm install```
 
 ## Feedback and Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. All contributions are welcome!
 
 If you have a suggestion that would make my homework better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/aa3281/Meta-Front-End-Developer-Professional-Certificate/fork>)
 2. Create your feature branch (`git checkout -b feature/amazingFeature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazingFeature`)
