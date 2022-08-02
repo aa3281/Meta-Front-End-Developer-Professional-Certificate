@@ -1,13 +1,13 @@
 # About the Meta Front-End Developer Professional Certificate #
-> Follow me as I learn to build a dynamic and responsive website with this 9-course program, designed by the software engineering experts at Meta
+ Follow me as I learn to build a dynamic and responsive website with this 9-course program, designed by the software engineering experts at Meta
 
-**In this program, you’ll learn:**
-- How to code and build interactive web pages using HTML5, CSS and JavaScript.
-- In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.
-- GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.
-- How to prepare for technical interviews for front-end developer roles.
-
-By the end, you’ll put your new skills to work by completing a real-world portfolio project where you’ll create your own front-end web application. You’ll build a dynamic website and create a responsive website that you can showcase during a job interview. Plus, you’ll get tips for a successful coding interview and get support in your job search.
+> **In this program, you’ll learn:**
+> - How to code and build interactive web pages using HTML5, CSS and JavaScript.
+> - In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.
+> - GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.
+> - How to prepare for technical interviews for front-end developer roles.
+>
+> By the end, you’ll put your new skills to work by completing a real-world portfolio project where you’ll create your own front-end web application. You’ll build a dynamic website and create a responsive website that you can showcase during a job interview. Plus, you’ll get tips for a successful coding interview and get support in your job search.
 
 ## Skills/Built With ##
 - UI/UX Design
